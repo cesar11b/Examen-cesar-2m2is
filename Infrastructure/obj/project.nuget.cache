@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyxER2FxgGUOB3EmUIzJApqf/rglqbgt30a3mvs8jcNy1uOZimDOLNzDSrT9ONaZUh/3hbthOv3239el/zh5pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JADPA19\\source\\repos\\exam\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JADPA19\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\JADPA19\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\JADPA19\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
